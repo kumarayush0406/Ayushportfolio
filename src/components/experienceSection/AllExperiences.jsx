@@ -14,7 +14,7 @@ const experiences = [
   {
     job: "Frontend developer intern",
     company: "OpenSense Labs",
-    date: "oct 22 - Apr 23",
+    date: "oct 22 - Mar 23",
     responsibilities: [
       "Designed and developed the company's monthly newsletter, ensuring a clean layout .",
       "Learned and applied Various technology, coding quality standards, and responsive design principles .",
