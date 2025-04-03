@@ -32,7 +32,7 @@ const HeroText = () => {
       >
         Dynamic Frontend developer equipped with a passion <br /> for creating
         highest performance and leveraging skills <br /> in reusable component
-        devlopment.{" "}
+        development.{" "}
       </motion.p>
     </div>
   );
