@@ -6,7 +6,7 @@ const NavbarBtn = () => {
       <a href="https://drive.google.com/file/d/10aJLoStAgGwX_iX9BU_x3wYszfiY3FDe/view?usp=drivesdk">
         Resume
       </a>
-      <div className=" sm:hidden md:block pt-1 ">
+      <div className="sm:hidden md:block pt-1">
         <RiArrowRightDownLine />
       </div>
     </button>
