@@ -1,4 +1,4 @@
-import ExperienceText from "./experienceText";
+import ExperienceText from "./ExperienceText";
 import AllExperiences from "./AllExperiences";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";

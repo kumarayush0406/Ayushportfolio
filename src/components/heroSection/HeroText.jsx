@@ -31,8 +31,8 @@ const HeroText = () => {
         className="text-lg mt-4 text-white"
       >
         Dynamic Frontend developer equipped with a passion <br /> for creating
-        hight performamce and leveraging skills <br /> in reusable component
-        devlopment.{" "}
+        highest performance and leveraging skills <br /> in reusable component
+        development.{" "}
       </motion.p>
     </div>
   );
